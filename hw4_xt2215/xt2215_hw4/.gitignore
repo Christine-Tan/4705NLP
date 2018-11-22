@@ -1,0 +1,12 @@
+
+data/vocabs.word
+
+data/vocabs.actions
+
+data/vocabs.labels
+
+data/vocabs.pos
+
+sed
+
+*.data
