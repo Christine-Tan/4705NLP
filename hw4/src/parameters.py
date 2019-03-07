@@ -1,0 +1,13 @@
+train_data_file = "data/train.data"
+word_file = "data/vocabs.word"
+pos_file = "data/vocabs.pos"
+label_file = "data/vocabs.labels"
+action_file = "data/vocabs.actions"
+model_path = "data/model1_1"
+word_embed_dim = 64
+pos_embed_dim = 32
+label_embed_dim = 32
+first_hidden_dim = 200
+second_hidden_dim = 200
+mini_batch_size = 1000
+epochs = 7
